@@ -1,0 +1,17 @@
+Plains Lupe,10,10,4,2,3,20,20,45,1,0,1,1,0
+red Feral Lupe,11,10,3,3,2,20,20,60,2,1,0,1,0
+Plains Aisha,12,10,2,3,3,20,20,25,1,1,0,0,1
+mutant bearog,13,11,5,2,3,20,20,10,1,1,1,0,0
+cave lupe,10,12,2,3,2,20,20,5,2,0,0,1,1
+big spyder,11,13,3,4,2,20,20,6,3,0,1,1,0
+ghost miner,12,10,2,3,4,20,20,7,1,1,0,1,0
+ghost prospector,13,11,4,4,4,20,20,8,2,1,0,0,1
+Big Ghost Miner,10,12,3,2,3,20,20,9,3,1,1,0,0
+Skeleton,11,13,2,4,2,20,20,11,2,0,0,1,1
+Skeleton Guard,12,10,3,3,4,20,20,12,1,0,1,1,0
+Gelert Ghost,13,11,4,2,2,20,20,13,1,0,1,1,0
+Big Bearog,10,12,2,4,2,20,20,14,2,1,0,1,0
+Sand Spyder,11,13,3,3,2,20,20,15,3,1,0,0,1
+Scarab,12,10,3,2,2,20,20,16,3,1,1,0,0
+Mummy,13,11,4,2,4,20,20,17,2,0,0,1,1
+NAME,STRENGTH,DEFENSE,SPEED,INTEL,WISDOM,MAXHEALTH,CURRENTHEALTH,CurrentEXP,LEVEL,WEAPON,ARMOR,WAND,FORCEFIELD
